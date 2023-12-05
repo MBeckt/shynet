@@ -30,3 +30,4 @@ databases:
   - name: shynet
     databaseName: shynet
     user: shynet
+    plan: free
